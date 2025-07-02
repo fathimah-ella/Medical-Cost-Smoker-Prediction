@@ -5,6 +5,7 @@ This analytical project leverages **medical personal cost data** to identify pat
 
 ## Dataset
 The dataset used is **Medical Personal Cost** (in .csv format), which contains information related to individual medical expenses, including demographic variables and smoking habits.
+**Dataset Source:** [[www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/datasets/mirichoi0218/insurance)]
 
 ## Methodology
 This project follows standard data analysis phases:
